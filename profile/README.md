@@ -3,5 +3,5 @@
 Repositories associated with various prime number bots; you can follow them at:
 
 * Web/RSS at [https://primes.today](https://primes.today)
-* [Mastodon](https://botsin.space/@primes)
+* [~~Mastodon~~](https://botsin.space/@primes) _defunct due to botsinspace instance shut down_
 * [~~Twitter~~](https://twitter.com/_primes_) _defunct due to Twitter API shut down_
